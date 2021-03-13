@@ -1,0 +1,20 @@
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.exe
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.exe
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.btn1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.MenuPrincipal.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.exe.config
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.exe
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\bin\Debug\urnaEletrônica.pdb
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.csprojAssemblyReference.cache
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.btn1.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.MenuPrincipal.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.Properties.Resources.resources
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.csproj.GenerateResource.cache
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.exe
+C:\Users\Dâmaris Campos\Documents\Visual Studio 2019\Projects\urnaEletrônica\urnaEletrônica\urnaEletrônica\obj\Debug\urnaEletrônica.pdb
